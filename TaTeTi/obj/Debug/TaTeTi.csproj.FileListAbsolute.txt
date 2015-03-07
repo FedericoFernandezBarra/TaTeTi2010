@@ -1,0 +1,78 @@
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\Documents and Settings\Fede\Mis documentos\Downloads\Copia de TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Documents and Settings\Fede\Escritorio\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Documents and Settings\Fede\Escritorio\Copia de TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csprojResolveAssemblyReference.cache
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\disco c pero movi\TaTeTi y Agenda\Programacion 4to aÃ±o\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csprojResolveAssemblyReference.cache
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.AcercaDe.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.NombresJugadores.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Opciones.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsJugador.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Principal.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.OpcionesJugadorVsPC.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Users\Fede\Desktop\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache

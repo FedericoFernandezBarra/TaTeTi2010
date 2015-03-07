@@ -1,0 +1,8 @@
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\bin\Debug\TaTeTi.exe
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\bin\Debug\TaTeTi.pdb
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Form1.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.Properties.Resources.resources
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.exe
+C:\Documents and Settings\user\Escritorio\TaTeTi\TaTeTi\TaTeTi\obj\Debug\TaTeTi.pdb
